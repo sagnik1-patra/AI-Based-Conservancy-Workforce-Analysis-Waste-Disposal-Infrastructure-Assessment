@@ -1,0 +1,48 @@
+{
+    "project_name": "AI-Based Conservancy Workforce Analysis, Waste Disposal Infrastructure Assessment, and Resource Optimization System",
+    "algorithm": "Artificial Immune System",
+    "variant": "Clonal Selection Algorithm",
+    "created_at": "2026-11-10T22:18:23.213509",
+    "dataset": {
+        "year": "2017-18",
+        "records": 1,
+        "conservancy_workers": 847,
+        "supporting_workers": 412,
+        "disposal_sites": 105,
+        "total_workers": 1259
+    },
+    "optimization_results": {
+        "best_cost": 0.4913308913308915,
+        "best_fitness": 0.6705420009824791,
+        "equal_allocation_cost": 2.163426943426943,
+        "improvement_over_equal": 1.6720960520960517
+    },
+    "model_evaluation": {
+        "prediction_accuracy": null,
+        "r2_score": null,
+        "mae": null,
+        "rmse": null,
+        "reason": "Insufficient historical observations for predictive ML evaluation"
+    },
+    "forecast_assumptions": {
+        "workforce_growth_rate": 0.04,
+        "site_growth_rate": 0.03
+    },
+    "generated_outputs": [
+        "ais_accuracy_graph.png",
+        "ais_heatmap.png",
+        "ais_comparison_graph.png",
+        "ais_result.csv",
+        "ais_result_graph.png",
+        "ais_prediction.csv",
+        "ais_prediction_graph.png",
+        "ais_resource_allocation.csv",
+        "ais_comparison.csv",
+        "ais_convergence.csv",
+        "ais_convergence_graph.png",
+        "ais_model.pkl",
+        "ais_model.h5",
+        "ais_model_config.yaml",
+        "ais_project_metadata.json"
+    ]
+}

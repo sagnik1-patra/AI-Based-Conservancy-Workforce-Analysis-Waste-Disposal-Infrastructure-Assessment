@@ -1,0 +1,3 @@
+method,allocation_cost,optimization_fitness,total_allocated_workers
+Equal Allocation,2.163426943426943,0.31611287944481475,1259
+PSO Optimization,0.4913308913308911,0.6705420009824792,1259

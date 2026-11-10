@@ -1,0 +1,32 @@
+project:
+  name: AI-Based Conservancy Workforce Analysis, Waste Disposal Infrastructure Assessment,
+    and Resource Optimization System
+  algorithm: AIS Clonal Selection
+  dataset_year: 2017-18
+  created_at: '2026-11-10T22:18:23.208949'
+dataset:
+  path: C:\Users\sagni\Downloads\AI-Based Conservancy Workforce Analysis, Waste Disposal
+    Infrastructure Assessment, and Resource Optimization System\number_of conservancy_workers_engaged_in_conservancy_garbage_and_debris_disposal_and_other_particulars_2017_18.csv
+  records: 1
+  total_conservancy_workers: 847
+  total_supporting_workers: 412
+  total_disposal_sites: 105
+ais_parameters:
+  population_size: 35
+  generations: 150
+  elite_count: 8
+  clones_per_elite: 5
+  random_immigrants: 5
+  random_seed: 42
+optimization:
+  objective: Minimize mean absolute deviation from hypothetical workload-based staffing
+    targets
+  best_cost: 0.4913308913308915
+  best_fitness: 0.6705420009824791
+  workload_assumption: Illustrative weights increase from 1 to 2
+forecast:
+  base_year: 2018
+  forecast_years: 10
+  workforce_growth_rate: 0.04
+  site_growth_rate: 0.03
+  type: Assumption-based scenario

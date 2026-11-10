@@ -1,0 +1,12 @@
+year,projected_disposal_sites,projected_conservancy_workers,projected_supporting_workers,projected_total_workers,projected_workers_per_site,workforce_growth_assumption,site_growth_assumption,projection_type
+2018,105,847,412,1259,11.99047619047619,0.04,0.03,"Assumption-based scenario, not ML prediction"
+2019,108,881,428,1309,12.12037037037037,0.04,0.03,"Assumption-based scenario, not ML prediction"
+2020,111,916,446,1362,12.27027027027027,0.04,0.03,"Assumption-based scenario, not ML prediction"
+2021,115,953,463,1416,12.31304347826087,0.04,0.03,"Assumption-based scenario, not ML prediction"
+2022,118,991,482,1473,12.483050847457626,0.04,0.03,"Assumption-based scenario, not ML prediction"
+2023,122,1031,501,1532,12.557377049180328,0.04,0.03,"Assumption-based scenario, not ML prediction"
+2024,125,1072,521,1593,12.744,0.04,0.03,"Assumption-based scenario, not ML prediction"
+2025,129,1115,542,1657,12.844961240310077,0.04,0.03,"Assumption-based scenario, not ML prediction"
+2026,133,1159,564,1723,12.954887218045112,0.04,0.03,"Assumption-based scenario, not ML prediction"
+2027,137,1206,586,1792,13.08029197080292,0.04,0.03,"Assumption-based scenario, not ML prediction"
+2028,141,1254,610,1864,13.21985815602837,0.04,0.03,"Assumption-based scenario, not ML prediction"

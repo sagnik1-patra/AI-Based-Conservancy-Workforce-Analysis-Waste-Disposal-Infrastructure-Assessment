@@ -1,0 +1,30 @@
+project:
+  name: AI-Based Conservancy Workforce Analysis, Waste Disposal Infrastructure Assessment,
+    and Resource Optimization System
+  version: '1.0'
+  dataset_year: 2017-18
+  created_at: '2026-11-10T22:14:16.729507'
+dataset:
+  path: C:\Users\sagni\Downloads\AI-Based Conservancy Workforce Analysis, Waste Disposal
+    Infrastructure Assessment, and Resource Optimization System\number_of conservancy_workers_engaged_in_conservancy_garbage_and_debris_disposal_and_other_particulars_2017_18.csv
+  rows: 1
+  columns: 4
+  missing_values: 0
+model:
+  name: ConservancyResourceOptimizer
+  type: Mathematical Optimization
+  trained_ml_model: false
+  allocation_strategy: Equal Distribution
+  objective: Balance workforce counts across disposal sites
+optimization:
+  total_sites: 105
+  conservancy_workers: 847
+  supporting_workers: 412
+  total_workers: 1259
+  equal_workload_assumption: true
+  integer_allocation: true
+output_files:
+  h5: conservancy_workforce_model.h5
+  pkl: conservancy_workforce_model.pkl
+  yaml: model_config.yaml
+  json: project_metadata.json

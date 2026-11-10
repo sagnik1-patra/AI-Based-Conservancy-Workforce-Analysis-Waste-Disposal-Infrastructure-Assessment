@@ -1,0 +1,675 @@
+{
+    "project_name": "AI-Based Conservancy Workforce Analysis, Waste Disposal Infrastructure Assessment, and Resource Optimization System",
+    "dataset_year": "2017-18",
+    "created_at": "2026-11-10T22:14:16.735510",
+    "dataset_information": {
+        "filename": "number_of conservancy_workers_engaged_in_conservancy_garbage_and_debris_disposal_and_other_particulars_2017_18.csv",
+        "records": 1,
+        "features": 4
+    },
+    "workforce_analysis": {
+        "total_conservancy_workers": 847,
+        "total_supporting_workers": 412,
+        "total_disposal_sites": 105,
+        "total_workforce": 1259,
+        "average_conservancy_workers_per_site": 8.066666666666666,
+        "average_supporting_workers_per_site": 3.9238095238095236,
+        "average_total_workers_per_site": 11.99047619047619,
+        "conservancy_percentage": 67.27561556791105,
+        "supporting_percentage": 32.72438443208896
+    },
+    "optimization_summary": {
+        "model_type": "Equal Distribution Optimizer",
+        "number_of_sites": 105,
+        "total_allocated_workers": 1259,
+        "minimum_workers_per_site": 11,
+        "maximum_workers_per_site": 13,
+        "average_workers_per_site": 11.99047619047619,
+        "allocation_standard_deviation": 0.37784446523575954
+    },
+    "model_information": {
+        "model_name": "ConservancyResourceOptimizer",
+        "model_type": "Equal Distribution Optimizer",
+        "trained_machine_learning_model": false,
+        "prediction_accuracy": null,
+        "description": "Mathematical workforce allocation baseline using aggregate workforce statistics."
+    },
+    "allocation_results": [
+        {
+            "site_id": 1,
+            "conservancy_workers": 9,
+            "supporting_workers": 4,
+            "total_workers": 13
+        },
+        {
+            "site_id": 2,
+            "conservancy_workers": 9,
+            "supporting_workers": 4,
+            "total_workers": 13
+        },
+        {
+            "site_id": 3,
+            "conservancy_workers": 9,
+            "supporting_workers": 4,
+            "total_workers": 13
+        },
+        {
+            "site_id": 4,
+            "conservancy_workers": 9,
+            "supporting_workers": 4,
+            "total_workers": 13
+        },
+        {
+            "site_id": 5,
+            "conservancy_workers": 9,
+            "supporting_workers": 4,
+            "total_workers": 13
+        },
+        {
+            "site_id": 6,
+            "conservancy_workers": 9,
+            "supporting_workers": 4,
+            "total_workers": 13
+        },
+        {
+            "site_id": 7,
+            "conservancy_workers": 9,
+            "supporting_workers": 4,
+            "total_workers": 13
+        },
+        {
+            "site_id": 8,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 9,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 10,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 11,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 12,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 13,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 14,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 15,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 16,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 17,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 18,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 19,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 20,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 21,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 22,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 23,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 24,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 25,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 26,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 27,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 28,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 29,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 30,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 31,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 32,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 33,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 34,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 35,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 36,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 37,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 38,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 39,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 40,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 41,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 42,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 43,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 44,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 45,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 46,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 47,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 48,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 49,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 50,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 51,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 52,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 53,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 54,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 55,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 56,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 57,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 58,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 59,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 60,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 61,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 62,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 63,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 64,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 65,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 66,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 67,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 68,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 69,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 70,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 71,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 72,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 73,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 74,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 75,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 76,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 77,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 78,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 79,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 80,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 81,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 82,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 83,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 84,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 85,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 86,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 87,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 88,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 89,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 90,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 91,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 92,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 93,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 94,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 95,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 96,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 97,
+            "conservancy_workers": 8,
+            "supporting_workers": 4,
+            "total_workers": 12
+        },
+        {
+            "site_id": 98,
+            "conservancy_workers": 8,
+            "supporting_workers": 3,
+            "total_workers": 11
+        },
+        {
+            "site_id": 99,
+            "conservancy_workers": 8,
+            "supporting_workers": 3,
+            "total_workers": 11
+        },
+        {
+            "site_id": 100,
+            "conservancy_workers": 8,
+            "supporting_workers": 3,
+            "total_workers": 11
+        },
+        {
+            "site_id": 101,
+            "conservancy_workers": 8,
+            "supporting_workers": 3,
+            "total_workers": 11
+        },
+        {
+            "site_id": 102,
+            "conservancy_workers": 8,
+            "supporting_workers": 3,
+            "total_workers": 11
+        },
+        {
+            "site_id": 103,
+            "conservancy_workers": 8,
+            "supporting_workers": 3,
+            "total_workers": 11
+        },
+        {
+            "site_id": 104,
+            "conservancy_workers": 8,
+            "supporting_workers": 3,
+            "total_workers": 11
+        },
+        {
+            "site_id": 105,
+            "conservancy_workers": 8,
+            "supporting_workers": 3,
+            "total_workers": 11
+        }
+    ],
+    "generated_files": {
+        "h5": "conservancy_workforce_model.h5",
+        "pkl": "conservancy_workforce_model.pkl",
+        "yaml": "model_config.yaml",
+        "json": "project_metadata.json"
+    }
+}

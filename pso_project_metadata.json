@@ -1,0 +1,47 @@
+{
+    "project_name": "AI-Based Conservancy Workforce Analysis, Waste Disposal Infrastructure Assessment, and Resource Optimization System",
+    "algorithm": "Particle Swarm Optimization",
+    "created_at": "2026-11-10T22:21:14.854327",
+    "dataset": {
+        "year": "2017-18",
+        "records": 1,
+        "conservancy_workers": 847,
+        "supporting_workers": 412,
+        "disposal_sites": 105,
+        "total_workers": 1259
+    },
+    "optimization_results": {
+        "best_cost": 0.4913308913308911,
+        "best_fitness": 0.6705420009824792,
+        "equal_allocation_cost": 2.163426943426943,
+        "improvement_over_equal": 1.672096052096052
+    },
+    "model_evaluation": {
+        "prediction_accuracy": null,
+        "r2_score": null,
+        "mae": null,
+        "rmse": null,
+        "reason": "Insufficient historical observations for predictive ML evaluation"
+    },
+    "forecast_assumptions": {
+        "workforce_growth_rate": 0.04,
+        "site_growth_rate": 0.03
+    },
+    "generated_outputs": [
+        "pso_accuracy_graph.png",
+        "pso_heatmap.png",
+        "pso_comparison_graph.png",
+        "pso_result.csv",
+        "pso_result_graph.png",
+        "pso_prediction.csv",
+        "pso_prediction_graph.png",
+        "pso_resource_allocation.csv",
+        "pso_comparison.csv",
+        "pso_convergence.csv",
+        "pso_convergence_graph.png",
+        "pso_model.pkl",
+        "pso_model.h5",
+        "pso_model_config.yaml",
+        "pso_project_metadata.json"
+    ]
+}
